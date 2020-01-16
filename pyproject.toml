@@ -41,5 +41,5 @@ sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FIRSTPARTY", "LOCALFOLDER"]
 use_parentheses = true
 
 [build-system]
-requires = ["poetry>=0.12"]
+requires = ["poetry==1.0.2"]
 build-backend = "poetry.masonry.api"
